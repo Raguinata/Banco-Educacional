@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -74,6 +75,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # SENAC-PWA107-1142514648-Leonardo
  Repositório para inserir as atividades da disciplina de Programação Web
 >>>>>>> 89f15293ef6da403df0b0cf6329d13e5197ab821
+=======
+# Banco-Educacional
+Uma interface de um banco com cadastro, conta corrente e calculo de financiamento, feito em React Js. O site foi inspirado no personagem Punpun do mangá japonês "Oyasumi Punpun"
+>>>>>>> b2256a01c6c0d78339f9476fee2d99b49349d165
 =======
 # Banco-Educacional
 Uma interface de um banco com cadastro, conta corrente e calculo de financiamento, feito em React Js. O site foi inspirado no personagem Punpun do mangá japonês "Oyasumi Punpun"
